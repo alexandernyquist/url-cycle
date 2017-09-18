@@ -51,13 +51,12 @@ body {
 	margin: 0 10%;
 }
 #config table {
+	margin-top: 20px;
 	width: 100%;
 }
-#config table caption {
-	font-weight: bold;
-	text-align: left;
-}
 #config table th {
-	font-weight: normal;
 	white-space: nowrap;
+}
+#config .footer {
+	margin: 10px 0;
 }
